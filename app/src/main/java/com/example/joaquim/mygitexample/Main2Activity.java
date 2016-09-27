@@ -26,4 +26,7 @@ public class Main2Activity extends AppCompatActivity {
         });
     }
 
+    public void onClickClose(View view) {
+        finish();
+    }
 }
